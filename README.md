@@ -87,18 +87,26 @@ Include screenshot of the dataset
 
 ## OUTPUT
 
+### DATASET INFORMATION
+
+![INFO](https://github.com/JaisonRaphael/basic-nn-model/assets/94165957/9385a987-9d4b-4d77-924f-aaee7b025b2e)
+
+
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![IT](https://github.com/JaisonRaphael/basic-nn-model/assets/94165957/0a1bf3fd-7829-467d-95ab-caf10443d5de)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![TEST ROOT](https://github.com/JaisonRaphael/basic-nn-model/assets/94165957/917e2fd3-58c3-4e60-89d3-2d7d8c8d2441)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![NEW SAMPLE](https://github.com/JaisonRaphael/basic-nn-model/assets/94165957/c9c0a3db-ee7b-4bcf-b6da-abd6ff417656)
+
 
 ## RESULT
 
-Include your result here
+A neural network regression model for the given dataset has been developed Sucessfully.
